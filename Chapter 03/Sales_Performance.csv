@@ -1,0 +1,33 @@
+Product,Category,Region,Quarter,Month,Sales,Profit,Units Sold,Revenue,Month Number,Advertising Spending
+Laptop,Electronics,North,Quarter 1,January,15000,2000,200,3000000,1,50000
+Laptop,Electronics,South,Quarter 1,January,12000,1500,180,2160000,1,40000
+Laptop,Electronics,East,Quarter 1,January,10000,1800,160,1800000,1,30000
+Laptop,Electronics,West,Quarter 1,March,9000,1400,150,1350000,3,20000
+Smartphone,Electronics,North,Quarter 1,January,18000,2200,220,3960000,1,60000
+Smartphone,Electronics,South,Quarter 1,January,14000,1800,190,2660000,1,45000
+Smartphone,Electronics,East,Quarter 1,January,12000,1600,170,2040000,1,35000
+Smartphone,Electronics,West,Quarter 1,March,11000,1500,160,1760000,3,30000
+Refrigerator,Appliances,North,Quarter 1,January,10000,1200,120,1200000,1,25000
+Refrigerator,Appliances,South,Quarter 1,January,8000,1000,100,800000,1,20000
+Refrigerator,Appliances,East,Quarter 1,January,7000,900,90,630000,1,15000
+Refrigerator,Appliances,West,Quarter 1,March,6000,800,80,480000,3,10000
+Washing Machine,Appliances,North,Quarter 1,January,9000,1100,110,990000,1,30000
+Washing Machine,Appliances,South,Quarter 1,January,7500,1000,100,750000,1,25000
+Washing Machine,Appliances,East,Quarter 1,January,6500,900,90,585000,1,20000
+Washing Machine,Appliances,West,Quarter 1,March,5500,800,80,440000,3,15000
+Laptop,Electronics,North,Quarter 1,February,18000,2200,220,3960000,2,60000
+Laptop,Electronics,South,Quarter 1,February,15000,1800,210,3150000,2,55000
+Laptop,Electronics,East,Quarter 1,February,13000,2000,180,2340000,2,45000
+Laptop,Electronics,West,Quarter 1,March,10000,1500,150,1500000,3,30000
+Smartphone,Electronics,North,Quarter 1,February,22000,2500,240,5280000,2,70000
+Smartphone,Electronics,South,Quarter 1,February,18000,2100,200,3780000,2,60000
+Smartphone,Electronics,East,Quarter 1,February,15000,1900,190,2850000,2,50000
+Smartphone,Electronics,West,Quarter 1,March,13000,1800,180,2340000,3,35000
+Refrigerator,Appliances,North,Quarter 1,February,12000,1400,130,1560000,2,30000
+Refrigerator,Appliances,South,Quarter 1,February,10000,1200,110,1100000,2,25000
+Refrigerator,Appliances,East,Quarter 1,February,9000,1000,100,900000,2,20000
+Refrigerator,Appliances,West,Quarter 1,March,8000,900,90,720000,3,15000
+Washing Machine,Appliances,North,Quarter 1,February,11000,1300,120,1320000,2,35000
+Washing Machine,Appliances,South,Quarter 1,February,9000,1100,100,990000,2,30000
+Washing Machine,Appliances,East,Quarter 1,February,8000,1000,90,720000,2,30000
+Washing Machine,Appliances,West,Quarter 1,March,7000,900,80,560000,3,25000
